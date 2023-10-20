@@ -1,7 +1,7 @@
 <template>
-    <Sidebar/>
-    <Dashboard/>
    
+    <Dashboard/>
+  
 </template>
 
 <script>
